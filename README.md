@@ -8,5 +8,9 @@ Porque cambiamos la direccion del flex de arrow que es por defecto a columnas, y
 >Analicemos ¿Qué hacen estás propiedades?
 Hace que el primer hijo de la fila, es decir el numero 1, tenga un ancho de `64%`, mientras los demas tendran un ancho de `33%`.
 
+## ejercicio3
+>Actualice la página en su navegador y pregúntese ¿Puedo diseñar toda mi web usando GRID? >Porqué se dan estos cambios entre tan pocas líneas de diseño CSS.
+si, si es posible pero depende del tamaño de la pagina.
+
 
 
